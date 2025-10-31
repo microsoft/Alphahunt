@@ -270,7 +270,7 @@ preshed==3.0.9
 progressbar2==4.4.2
 prompt_toolkit==3.0.47
 propcache==0.2.0
-protobuf==4.25.3
+protobuf==4.25.8
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
